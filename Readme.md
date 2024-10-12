@@ -1,0 +1,1 @@
+**ENV: API_KEY= Open Weather API key**
